@@ -50,7 +50,7 @@ export default function Logon() {
         </form>
       </section>
 
-      <img src={heroesImg} alt="Heroes" className="responsive" />
+      <img src={heroesImg} alt="Heroes" />
     </div>
   );
 }
