@@ -18,7 +18,7 @@ describe("ONG", () => {
       .send({
         name: "IIC-UFC",
         email: "contato@iicufc.com.br",
-        whatsapp: "85991501700",
+        whatsapp: "00000000000",
         city: "Fortaleza",
         uf: "CE"
       });
