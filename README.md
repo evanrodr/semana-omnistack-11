@@ -14,7 +14,7 @@ Nesta semana Omnistack foi desenvolvida uma aplicação com fins de utilidade p�
 * Front-End Web: React Router, React Icons, Axios;
 * Front-End Mobile: Axios, Expo, Intl;
 
-## 👨‍💻 Minha experiência do projeto
+## 👨‍💻 Minha experiência com o projeto
 Acredito que essa Semana Omnistack foi, embora apenas seja a segunda em que participo, a melhor em comparação com a anterior. Pois pelo fato de eu ter estudado bastante sobre React, Node e ter melhorado bastante meus conhecimentos em Desenvolvimento Web a semana acabou fluindo de maneira bem mais legal e proveitosa, não que deixe de ser pra quem não conhece a stack (mas conta pra mim, é muito satisfatório conhecer e saber quase cada passo que o instrutor dá durante a aula não é?). Sempre procuro reafirmar que essas bibliotecas/frameworks como React e Node são incrivelmente revolucionários e é super legal desenvolver sistemas inteiros usando basicamente JavaScript. A semana foi muito proveitosa e com certeza meu aqui no GitHub vai ter todas elas daqui pra frente! 
 
 ## ⚙ Como você pode iniciar o projeto
